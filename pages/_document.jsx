@@ -11,14 +11,14 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="Treo is a multipurpose bot for your discord server with Moderation, Fun, Giveaway, Economy, Utility etc... features."
+            content="Vegito is a multipurpose bot for your discord server with Antinuke, Moderation, Fun, Giveaway, Utility etc... features."
           />
           <meta name="twitter:card" content="summary" />
-          <meta name="twitter:site" content="@TreoDiscordBot" />
-          <meta name="twitter:creator" content="@TreoDiscordBot" />
-          <meta property="og:url" content="https://treoweb.vercel.app" />
+          <meta name="twitter:site" content="@VegitoDiscordBot" />
+          <meta name="twitter:creator" content="@VegitoDiscordBot" />
+          <meta property="og:url" content="https://www.vegito.ml" />
           <meta property="og:type" content="website" />
-          <meta property="og:title" content="Treo" />
+          <meta property="og:title" content="Vegito" />
           <link
             rel="icon"
             href="/img/logo2.png"
@@ -26,14 +26,14 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="Treo is a multipurpose bot for your discord server with Moderation, Fun, Giveaway, Economy, Utility etc... features."
+            content="Vegito is a multipurpose bot for your discord server with Antinuke, Moderation, Fun, Giveaway, Utility etc... features."
           />
           <meta property="og:image" content="/img/logo.jpg" />
           <meta property="og:image:alt" content="Treo" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
-            content="Treo"
+            content="Vegito"
           />
           <meta name="theme-color" content="#6108dd" />
           <link rel="icon" href="/img/logo.jpg" type="image/x-icon" />
