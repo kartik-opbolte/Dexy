@@ -3,7 +3,7 @@ export default function Privacy() {
     return (
         <div>
             <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for Treo</h1>
-            <p className="text-sm text-white/30 mb-4">Last Update: 20/05/2022  🆕️</p>
+            <p className="text-sm text-white/30 mb-4">Last Update: 21/03/2023  🆕️</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <h2 className="font-semibold text-3xl text-white/75">Usage Of Data</h2>
         <p>⊳ The bot may use stored data for different purposes, including but not limited to:
