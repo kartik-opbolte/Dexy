@@ -7,7 +7,7 @@ export default function support() {
 }
 
 export async function getServerSideProps({ res }) {
-  res.writeHead(302, { Location: 'https://discord.com/invite/JaNCZvPxMQ' });
+  res.writeHead(302, { Location: 'https://discord.gg/8WkhJXmrbq' });
   res.end();
 
   return {
