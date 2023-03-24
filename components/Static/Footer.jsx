@@ -75,14 +75,14 @@ export default function Footer() {
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://github.com/devanshyadav2010">
+                                <Link href="https://github.com/">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-github`} /> GitHub 
                                     </a>
                                 </Link>
                             </div>
                             <div>
-                                <Link href="https://youtube.com/deviladamgaming">
+                                <Link href="https://youtube.com/@ZayNex_XD">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-youtube`} /> YouTube 
                                     </a>
@@ -109,7 +109,7 @@ export default function Footer() {
                     </div>
                     <div className="mt-10 grid content-center grid-cols-1 sm:grid-cols-2 md:grid-cols-3">
                         <p className="text-white text-center sm:text-left text-opacity-50">
-                            {new Date().getFullYear()} &copy; Treo
+                            {new Date().getFullYear()} &copy; Vegito
                         </p>
                         <div className="hidden md:flex items-center justify-center">
                                 <p className={"text-xs text-green-400"}>
