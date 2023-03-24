@@ -29,7 +29,7 @@ class MyDocument extends Document {
             content="Vegito is a multipurpose bot for your discord server with Antinuke, Moderation, Fun, Giveaway, Utility etc... features."
           />
           <meta property="og:image" content="/img/logo.jpg" />
-          <meta property="og:image:alt" content="Treo" />
+          <meta property="og:image:alt" content="Vegito" />
           <meta property="og:locale" content="en_GB" />
           <meta
             property="og:site_name"
