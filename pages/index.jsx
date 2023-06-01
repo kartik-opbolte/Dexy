@@ -13,7 +13,7 @@ export default function Index() {
           Vegito
         </p>
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
-      Vegito is a multipurpose bot for your discord server with Antinuke, Moderation, Fun, Giveaway, Utility etc... features. 
+      Vegito is a Premium Discord music bot with many awsome features and 247 music support 
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
@@ -57,13 +57,13 @@ Vote Vegito</a>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-cogs text-2xl text-amber-500`} /> Optimization</p>
-                  <p className="text-gray-500 line-clamp-4">With the Antinuke protection to your server And servers your all needs</p>
+                  <p className="text-gray-500 line-clamp-4">with 247 music support to your server And servers you a music request channel</p>
                 </div>
               </div>
               <div>
                 <div className="text-white">
                   <p className="text-xl font-semibold mt-5"><i className={`fa fa-universal-access text-2xl text-amber-500`} /> Universal</p>
-                  <p className="text-gray-500 line-clamp-4">Vegito is a multipurpose bot for your discord server with Antinuke, Moderation, Fun, Giveaway, Utility etc... features.</p>
+                  <p className="text-gray-500 line-clamp-4">Vegito is a Premium Discord music bot with many awsome features and 247 music support.</p>
                 </div>
               </div>
               <div>
