@@ -11,7 +11,7 @@ class MyDocument extends Document {
           <meta name="googlebot" content="index,follow" />
           <meta
             name="description"
-            content="Vegito is a multipurpose bot for your discord server with Antinuke, Moderation, Fun, Giveaway, Utility etc... features."
+            content="Vegito is a Premium Discord music bot with many awsome features and 247 music support note: we are giving free premium membership of vegito till any announcement"
           />
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@VegitoDiscordBot" />
@@ -26,7 +26,7 @@ class MyDocument extends Document {
           />
           <meta
             property="og:description"
-            content="Vegito is a multipurpose bot for your discord server with Antinuke, Moderation, Fun, Giveaway, Utility etc... features."
+            content="Vegito is a Premium Discord music bot with many awsome features and 247 music support "
           />
           <meta property="og:image" content="/img/logo.jpg" />
           <meta property="og:image:alt" content="Vegito" />
